@@ -5475,7 +5475,7 @@ temple_duke_orthodox;Kníže-arcibiskup;Prince-archevêque;Fürsterzbischof;;Príncip
 temple_duke_sunni;Velký Muftí;Grand Mufti;Großmufti;;Gran muftí;;;;;;;;;x
 temple_duke_shiite;Velký Ajatoláh;Grand Ayatollah;Großayatollah;;Gran Ayatolá;;;;;;;;;x
 temple_duke_pagan_group;Arciknìz;Archiprêtre;Erzpriester;;Arcipreste;;;;;;;;;x
-temple_count_christian;Kníže biskup;Prince-évêque;Bischof;;Príncipe obispo;;;;;;;;;x
+temple_count_christian;Biskup-kníže;Prince-évêque;Bischof;;Príncipe obispo;;;;;;;;;x
 temple_count_orthodox;Metropolitan;Métropolitain;Metropolit;;Metropolitano;;;;;;;;;x
 temple_count_sunni;Šejch;Cheik;Scheich;;Jeque;;;;;;;;;x
 temple_count_shiite;Ajatoláh;Ayatollah;Ayatollah;;Ayatolá;;;;;;;;;x
@@ -5554,7 +5554,7 @@ temple_county_of_christian;Biskupské knížectví;Évêché princier de;Bistum von;;Ar
 temple_county_of_muslim;Šejchát;Cheikat de;Scheichtum von;;Dominio del jeque de;;;;;;;;;x
 temple_county_of_pagan_group;Teokracie;Théocratie de;Theokratie von;;Teocracia de;;;;;;;;;x
 temple_county_of_jewish_group;Teokracie;Théocratie de;Theokratie von;;Teocracia de;;;;;;;;;x
-temple_barony_of_christian;Biskupství;Évêché de;Abtei von;;Obispado de;;;;;;;;;x
+temple_barony_of_christian;Farnost;Évêché de;Abtei von;;Obispado de;;;;;;;;;x
 temple_barony_of_muslim;Šejchát;Mosquée de;Moschee von;;Mezquita de;;;;;;;;;x
 temple_barony_of_pagan_group;Chrám;Temple de;Tempel von;;Templo de;;;;;;;;;x
 temple_barony_of_jewish_group;Chrám;Temple de;Tempel von;;Templo de;;;;;;;;;x

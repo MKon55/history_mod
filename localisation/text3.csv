@@ -407,9 +407,9 @@ alert_noheir_instant;§YDynastie nemá dìdice!§!;§YPas d'héritier de votre dynasti
 KICK_PLAYER;Vyhodit hráèe;Chasser le joueur;;Spieler ausschließen;Expulsar jugador;;;;;;;;;x
 GENDER_LAWS;Dìdìní dle pohlaví;Lois de succession selon le sexe:;;Geschlechtsvorzugsgesetze;Leyes de género;;;;;;;;;x
 EVTOPTB5024;Teï se tím bavím;Pour l'instant, ça m'amuse.;;Fürs Erste macht mir das Spaß;Por ahora me divierto con esto;;;;;;;;;x
-pommeranian;pomoøanský;poméranienne;;Pommersch;Pomeranio;;;;;;;;;x
+pommeranian;Pomoøanský;poméranienne;;Pommersch;Pomeranio;;;;;;;;;x
 d_pommerania;Pomoøansko;Poméranie;;Pommern;Pomerania;;;;;;;;;x
-d_pommerania_adj;pomoøanská;poméranienne;;Pommersch;Pomerana;;;;;;;;;x
+d_pommerania_adj;Pomoøanská;poméranienne;;Pommersch;Pomerana;;;;;;;;;x
 ALREADY_CONTRACTED;Již se dohodli s §Y$OWNER$§W.;Ils ont déjà conclu un contrat avec §Y$OWNER$§W.;;Sie haben bereits einen Kontrakt mit §Y$OWNER$§W.;Ya tienen un contrato con §Y$OWNER$§W.;;;;;;;;;x
 CANNOT_AFFORD_THE_COST;§RNemùžeme si dovolit zaplatit!§W\n;§RNous n'en avons pas les moyens !§W\n;;§RWir können uns die Kosten nicht leisten!§W\n;§R¡No podemos permitirnos el coste!§W\n;;;;;;;;;x
 TRIGGER_EMPIRE;Øíše;Empire;;Reich;Imperio;;;;;;;;;x
