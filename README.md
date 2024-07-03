@@ -4,7 +4,7 @@ Toto je *vývojová verze* modifikace pro hru Crusader Kings 2
 
 # Cíl modu
 
-Cílem tohoto módu je modifikovat hru Crusader Kings 2 tak, aby bylo možné ji používat při výuce na základních školách, konkrétně ve 7. ročnících, a dále také při výuce na gymnáziích a středních školách. V této aktuální verzi tato modifikace zahrnuje:
+Cílem tohoto módu je modifikovat hru Crusader Kings 2 tak, aby ji bylo možné používat při výuce na základních školách, konkrétně ve 7. ročnících, a dále také při výuce na gymnáziích a středních školách. V této aktuální verzi tato modifikace zahrnuje:
 
 1. Částečný, avšak dostatečný překlad do českého jazyka včetně fontu podporujícího české znaky.
 2. Historickou korekci vládců v prostoru Čech.
