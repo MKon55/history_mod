@@ -1,0 +1,69 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+MENU_BAR_GAME_CONVERT;Export hry;Exporter une partie;Spiel exportieren;;Exportar Partida;;;;;;;;;x
+MENU_BAR_GAME_CONVERT_DEL;Exportovat hru do EU4;Exporter une partie vers EU4;Spiel nach EU4 exportieren;;Exportar partuda a EU4;;;;;;;;;x
+BARBER_TOOLTIP;§YGo to the Barber§!;§YAller chez le barbier§!;§YZum Barbier gehen§!;;§YIr al Peluquero§!;;;;;;;;;x
+RENAME_TITLE_TOOLTIP;Pøejmenovat titul;Renommer titre;Titel umbenennen;;Renombrar Título;;;;;;;;;x
+CUSTOMIZE_HOUSE_TOOLTIP;Pøizpùsobit rod;Personnaliser dynastie;Haus anpassen;;Personaliza tu Dinastía;;;;;;;;;x
+CUSTOMIZE_HOUSE_TOOLTIP_DISABLED;Tuto dynastii nelze pøizpùsobit, protože musíte být nejvyšším lenochem všech jejích èlenù.;Vous ne pouvez pas personnaliser cette dynastie car vous devez être le plus haut seigneur de tous ses membres.;Du kannst diese Dynastie nicht anpassen, da du der oberste Lehnsherr all ihrer Mitglieder sein musst.;;No puedes personalizar esta dinastía porque tienes que ser el Señor de todos sus miembros.;;;;;;;;;x
+c_lappland_adj;Sápmi;samie;Samisch;;Sápmi;;;;;;;;;x
+RENAME;Pøejmenovat;Renommer;Umbenennen;;Renombrar;;;;;;;;;x
+NAME;Jméno;Nom;Name;;Nombre;;;;;;;;;x
+ADJECTIVE;Pøídavné jméno;Gentilé;Adjektiv;;Adjetivo;;;;;;;;;x
+POSSIBLE_PLOT_POWER;Možná síla spiknutí;Puissance possible du complot;Mögliche Verschwörungsstärke;;Potencial posible del complot;;;;;;;;;x
+AUTO_INVITE_PLOTTERS;Automaticky zvát spiklence;Invitation automatique des comploteurs;Verschwörer automatisch einladen;;Autoinvitar conspiradores;;;;;;;;;x
+AUTO_STOP_PLOTS;Automaticky zastavit spiknutí;Arrêt auto. des complots;Automatisch beenden;;Autodetener complots;;;;;;;;;x
+AUTO_STOPPED_PLOT_SETUP;Odhalené spiknutí;Complot découvert;Verschwörung aufgedeckt;;Complot descubierto;;;;;;;;x;
+AUTO_STOPPED_PLOT_LOG;§Y$PLOTTER$§! se snaží §Y$PLOTNAME$§!.;§Y$PLOTTER$§!$PLOTTERJOB$ cherche à §Y$PLOTNAME$§!.;§Y$PLOTTER$§!$PLOTTERJOB$ strebt nach §Y$PLOTNAME$§!.;;§Y$PLOTTER$§!$PLOTTERJOB$ pretende §Y$PLOTNAME$§!.;;;;;;;;x;
+AUTO_STOPPED_PLOT_LETTER;Objevil jsem spiknutí, kde $PLOTTER$ usiluje o $PLOTNAME$. Okamžitì jsem vyslal posla, aby to zastavil.\n\nVáš pokorný špionážní mistr,\n$SPYMASTER$;J'ai découvert un complot par lequel $PLOTTER$ cherche à $PLOTNAME$. J'ai dépêché un émissaire pour lui demander de cesser ces agissements sur l'instant. \n\nVotre humble maître-espion,\n$SPYMASTER$;Ich habe eine Verschwörung aufgedeckt, bei der $PLOTTER$ $PLOTNAME$ erreichen will. Ich habe einen Abgesandten geschickt, um ihn dieses beenden zu lassen.\n\nIhr demütiger Hofspitzel\n$SPYMASTER$;;He descubierto un complot en el que $PLOTTER$ pretende $PLOTNAME$. Le he enviado un emisario para que desista de ello. \n\nTu humilde jefe de espías,\n$SPYMASTER$;;;;;;;;;x
+AUTO_STOP_PLOT_START_SETUP;Špionážní mistr posílá posly;Le maître-espion envoie des messagers;Hofspitzel schickt Boten;;El jefe de espías envía emisarios;;;;;;;;;x
+AUTO_STOP_PLOT_START_LOG;$SPYMASTER$ vyslal posly, aby zastavili spiklence;$SPYMASTER$ envoie des émissaires pour faire cesser les complots;$SPYMASTER$ hat Boten ausgeschickt, um Verschwörer zu stoppen.;;$SPYMASTER$ envia emisarios para hacer desistir a los conspiradores;;;;;;;;;x
+AUTO_STOP_PLOT_START_LETTER;Vyslal jsem posly ke všem známým spiklencùm, aby okamžitì pøestali.\n\nVáš pokorný špionážní mistr,\n$SPYMASTER$;J'ai envoyé des émissaires auprès de tous les comploteurs connus afin qu'ils cessent immédiatement leurs actions.\n\nVotre humble maître-espion,\n$SPYMASTER$;Ich habe Abgesandte zu allen bekannten Verschwörern geschickt, um diese davon zu unterrichten, ihre Verschwörungen zu beenden.\n\nIhr demütiger Hofspitzel\n$SPYMASTER$;;He enviado emisarios a todos los conspiradores conocidos para que desistan de inmediato.\n\nTu humilde jefe de espías,\n$SPYMASTER$;;;;;;;;;x
+siege_leader;Vùdce obléhání;Spécialiste des sièges;Belagerungsführer;;Líder del Asedio;;;;;;;;;x
+siege_leader_desc;Tento charakter je zkušený v vedení obléhání.;Ce personnage est particulièrement doué pour mener à bien les sièges;Dieser Charakter ist geübt, Belagerungen zu führen;;Este personaje está especializado en liderar asedios;;;;;;;;;x
+SIEGE;Obléhání;Siège;Belagerung;;Asedio;;;;;;;;;x
+ADD_IP;Pøidat IP;Ajouter IP;IP hinzufügen;;Añadir IP;;;;;;;;;x
+REMOVE_IP;Odebrat IP;Retirer IP;IP entfernen;;Borrar IP;;;;;;;;;x
+PENDING_PLOT_REQUEST;Èekání na odpovìï.;Attend une réponse.;Wartet auf Antwort.;;Esperando respuesta.;;;;;;;;;x
+ACCEPTED_PLOT_REQUEST;Podporuje spiknutí.;Soutient un complot.;Unterstützt Verschwörung.;;Apoyando un complot.;;;;;;;;;x
+LOADING_TIP_52;Pøi výbìru flotil mùžete použít pouze klávesu ALT.;Vous pouvez sélectionner uniquement vos flottes en utilisant la touche ALT.;Sie können eine Auswahl nur auf Flotten treffen, indem Sie die Alt-Taste gedrückt halten.;;Puedes hacer que la tropa seleccionada se embarque usando simplemente la tecla ALT;;;;;;;;;x
+EXIT;Konec;Sortie;Schließen;;Salir;;;;;;;;;x
+CUT;Støih!;Coupez !;Schnitt!;;¡Cortar!;;;;;;;;;x
+STYLE;Styl;Style;Stil;;Estilo;;;;;;;;;x
+CAN_PERSUADE_TO_JOIN_PLOT;Místodržící;Peut être convaincu par une escarcelle d'or...;Könnte von einem Sack Gold überzeugt werden.;;Puede convencersele con un saco de oro...;;;;;;;;;x
+city_job_chancellor_arabic;Místodržící;Grand vizir;Großwesir;;Gran Visir;;;;;;;;;x
+city_job_chancellor_iranian;Místodržící;Grand vizir;Großwesir;;Gran Visir;;;;;;;;;x
+city_job_chancellor_turkish;Místodržící;Grand vizir;Großwesir;;Gran Visir;;;;;;;;;x
+city_job_chancellor_west_african;Magistros;Grand vizir;Großwesir;;Gran Visir;;;;;;;;;x
+city_job_chancellor_greek;Mystikos;Magistros;Magistros;;Magistros;;;;;;;;;x
+city_job_spymaster_greek;Sakellarios;Mystikos;Mystikos;;Mystikos;;;;;;;;;x
+city_job_treasurer_greek;Cihuacoatl;Sakellarios;Sakellarios;;Sakellarios;;;;;;;;;x
+city_job_chancellor_aztec;Petlacalcatl;Cihuacoatl;Cihuacoatl;;Cihuacoatl;;;;;;;;;x
+city_job_treasurer_aztec;Sahagun;Petlacalcatl;Petlacalcatl;;Petlacalcatl;;;;;;;;;x
+city_job_spiritual_aztec;Tillancalqui;Sahagún;Sahagun;;Sahagun;;;;;;;;;x
+city_job_spymaster_aztec;Tlacateccatl;Tillancalqui;Tillancalqui;;Tillancalqui;;;;;;;;;x
+city_job_marshal_aztec;Astabadh;Tlacateccatl;Tlacateccatl;;Tlacateccatl;;;;;;;;;x
+city_job_chancellor_zoroastrian_group;Darik-Pat;Astabadh;Astabadh;;Astabadh;;;;;;;;;x
+city_job_treasurer_zoroastrian_group;Eran Spahbod;Darik-pat;Darik-Pat;;Darik-Pat;;;;;;;;;x
+city_job_marshal_zoroastrian_group;Mobad;Eran spahbod;Eran Spahbod;;Eran Spahbod;;;;;;;;;x
+city_job_spiritual_zoroastrian_group;Mobad;Mobad;Mobad;;Mobad;;;;;;;;;x
+city_job_spiritual_zoroastrian;Dvorní kaplan;Mobad;Mobed;;Mobad;;;;;;;;;x
+city_job_spiritual_christian;Ecclesiarcha;Chapelain;Hofprediger;;Capellán;;;;;;;;;x
+city_job_spiritual_orthodox;Dvorní imám;Ecclesiarque;Ekklesiarch;;Eclesiarca;;;;;;;;;x
+city_job_spiritual_muslim;Dvorní mullah;Imam de la Cour;Hof-Imam;;Imán de la corte;;;;;;;;;x
+city_job_spiritual_shiite;Hlavní vìštec;Mollah de la Cour;Hof-Mullah;;Mulá de la corte;;;;;;;;;x
+city_job_spiritual_pagan_group;Vìštec;Devin;Oberster Wahrsager;;Gran Chamán;;;;;;;;;x
+city_job_spiritual_pagan;Vìštec;Devin;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_baltic_pagan;Vìštec;Devin;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_baltic_pagan_reformed;Vìštec;Devin;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_finnish_pagan;Vìštec;Devin;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_finnish_pagan_reformed;Vìdma;Devin ;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_norse_pagan_reformed;Vìdma;Voyant;Seher;;Vidente;;;;;;;;;x
+city_job_spiritual_norse_pagan;Vìdma;Voyant;Seher;;Vidente;;;;;;;;;x
+city_job_spiritual_female_norse_pagan_reformed;Vìdma;Voyante;Seherin;;Vidente;;;;;;;;;x
+city_job_spiritual_female_norse_pagan;Vývojáøský balíèek EUIV Converter;Voyante;Seherin;;Vidente;;;;;;;;;x
+city_job_spiritual_slavic_pagan;Diviner;Devin;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_slavic_pagan_reformed;Diviner;Devin;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_tengri_pagan;Diviner;Devin;Wahrsager;;Augur;;;;;;;;;x
+city_job_spiritual_tengri_pagan_reformed;Diviner;Devin;Wahrsager;;Augur;;;;;;;;;x
+EU4ConverterDLC;EUIV Converter;Convertisseur EUIV;EUIV Converter;;;;;;;;;;;x
+CustomizationPackDLC;Customization Pack;;Customization Pack;;;;;;;;;;;x

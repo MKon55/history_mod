@@ -1,0 +1,65 @@
+X.CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+WIKIPEDIA_LINK;§YOdkaz na Wikipedii§W;§YLien Wikipédia§W;§YWikipedia Link§W;;§YEnlace a Wikipedia§W;;;;;;;;;x
+WIKIPEDIA_LINK_DESC;Otevøe internetovı prohlíeè na stránce Wikipedie, tıkající se této osoby.;Ouvre un navigateur vers la page Wikipédia du personnage;Öffnet den Browser und zeigt die Wikipediaseite für diesen Charakter an;;Abre un enlace en el explorador a la página de Wikipedia de este personaje;;;;;;;;;x
+WIKIPEDIA_LINK_MISSING;§YTato postava nemá vhodnı odkaz na Wikipedii§W;§YCe personnage n'a pas de page wikipédia§!;§YDieser Charakter besitzt keinen Wikipedia-Link§!;;§YEste personaje no tiene enlace en Wikipedia§W;;;;;;;;;x
+WIKIPEDIA_LINK_DISABLED;Odkazy na Wikipedii jsou deaktivované;Les liens wikipédia sont désactivés;Wikipedia-Links sind deaktiviert;;Los enlaces a la Wikipedia están desactivados;;;;;;;;;x
+AIREASON_TARGET_HAS_REPENTED_SINS;§Y[GetBestName]§! nedávno odèinil své høíchy;§Y[GetBestName]§! s'est récemment repenti de ses péchés;§Y[GetBestName]§! hat jüngst für [GetPossPronoun]e Sünden Buße getan;;§Y[GetBestName]§! se ha arrepentido recientemente de sus [GetPossPronoun] pecados;;;;;;;;;x
+OL_DISABLED_ALERTS;Deaktivovaná upozornìní;Alertes déactivées;Alarme sind deaktiviert;;Desactivar Avisos;;;;;;;;;x
+alert_deficits_name;Deficity;Déficits;Defizite;;Déficits;;;;;;;;;x
+alert_country_at_war_name;Zemì ve válce;Pays en guerre;Land befindet sich im Krieg;;País en Guerra;;;;;;;;;x
+alert_casus_belli_will_expire_name;Doèasnı casus belli;Casus belli temporaire;Temporärer Casus Belli;;Casus Belli temporal;;;;;;;;;x
+alert_allies_not_called_in_name;Mùeme povolat spojence;Nous pouvons solliciter de l'aide à nos alliés;Es können Verbündete um Beistand gebeten werden;;Podemos llamar a nuestros aliados;;;;;;;;;x
+alert_build_province_improvement_name;Lze postavit provinèní vylepšení;Peut contruire des améliorations comtales;Es können Provinzverbesserungen gebaut werden;;Podemos construir mejoras en nuestras provincias;;;;;;;;;x
+alert_troops_in_foreign_territory_name;Jednotky na cizím území;Troupes en territoire étranger;Truppen im fremden Gebiet;;Tropas en tierras extranjeras;;;;;;;;;x
+alert_revoltrisk_in_provinces_name;Moné vzpoury;Révoltes possibles;Es sind Revolten möglich;;Posibles revueltas;;;;;;;;;x
+alert_available_decision_name;Dùleitá rozhodnutí;Décisions importantes;Wichtige Entscheidungen;;Decisiones Importantes;;;;;;;;;x
+alert_noheir_name;ádnı dìdic;Pas d'héritier;Kein Erbe;;No tienes Heredero;;;;;;;;;x
+alert_court_not_filled_name;Otevøít posty v radì;Postes vacants au Conseil;Ratspositionen nicht besetzt;;Puestos disponibles en el Consejo;;;;;;;;;x
+alert_lose_title_on_succ_name;Ztráta titulu pøi nástupnictví;Perte de titre lors de la succession;Titel geht bei Nachfolge verloren;;Título perdido en la Sucesión;;;;;;;;;x
+alert_should_nominate_heir_name;Nominace následnictví;Nomination d'un successeur;Nachfolgenominierung;;Nominar Sucesor;;;;;;;;;x
+alert_you_can_create_titles_name;Lze vytvoøit tituly;Des titres peuvent être créés;Es können Titel geschaffen werden;;Puedes crear títulos;;;;;;;;;x
+alert_you_can_usurp_titles_name;Lze se zmocnit titulù;Des titres peuvent être usurpés;Es können Titel usurpiert werden;;Puedes usurpar títulos;;;;;;;;;x
+alert_ruler_should_marry_name;Panovník nemá cho;Souverain célibataire;Herrscher ist nicht vermählt;;Gobernante soltero;;;;;;;;;x
+alert_heir_should_marry_name;Dìdic nemá cho;Héritier célibataire;Erbe ist nicht vermählt;;Heredero soltero;;;;;;;;;x
+alert_should_appoint_guardian_name;Dítì postrádá poruèníka;Enfants sans tuteur;Kein Vormund für Kinder;;Infante sin tutor;;;;;;;;;x
+alert_demesne_too_big_name;Pøíliš rozlehlé panství;Domaine trop vaste;Domäne zu groß;;Heredad demasiado grande;;;;;;;;;x
+alert_adult_sons_notitle_name;Synové bez zemského titulu;Fils sans terres;Söhne besitzen kein Land;;Hijos sin tierras;;;;;;;;;x
+alert_betrothed_should_marry_name;Zasnoubení mohou uzavøít sòatek;Les fiancés peuvent se marier;Verlobte können heiraten;;Prometido se puede casar;;;;;;;;;x
+alert_can_imprison_name;Oprávnìné uvìznìní;Emprisonnement justifié;Rechtmäßige Inhaftierung;;Arresto legítimo;;;;;;;;;x
+alert_titles_may_pass_from_realm_name;Upozornìní na vazalské dìdictví;Avertissement sur la succession de certains vassaux;Titel fällt möglicherweise an eine Person außerhalb des Reiches;;Aviso de herencia de vasallos;;;;;;;;;x
+alert_can_call_vassals_to_arms_name;Lze povolat vazaly pøedešlého lenního pána;Nous pouvons faire appel à des vassaux de notre ancien seigneur lige;Vasallen unseres früheren Lehnsherrn können um Beistand ersucht werden;;Puedes llamar a los vasallos de tu antiguo señor;;;;;;;;;x
+alert_available_plot_name;Jsou dostupná nová spiknutí;De nouveaux complots sont disponibles;Neue Verschwörung möglich;;Nuevos complots disponibles;;;;;;;;;x
+alert_vassal_levies_raised_long_name;Vazalské hotovosti jsou svolány ji pøíliš dlouho;Les troupes des vassaux sont levées depuis trop longtemps;Wir beanspruchen die Streitkräfte unserer Vasallen zu lang;;Levas de los vasallos reclutadas durante mucho tiempo;;;;;;;;;x
+alert_owns_wrong_settlement_type_name;Špatnı typ dravy v panství;Mauvais type de possession dans le domaine;Falscher Besitztumstyp in Domäne;;Tipo de población erróneo en la heredad;;;;;;;;;x
+alert_no_ambition_name;Vybrat ambici;Choisissez une ambition;Wähle eine Ambition;;Escoge una ambición;;;;;;;;;x
+alert_dejure_claim_name;Lze uplatnit de jure vévodskı nárok;Peut revendiquer des titres de jure;Es können De-jure-Ansprüche durchgesetzt werden;;Puedes ejercer una reclamación de ducado de iure;;;;;;;;;x
+alert_truce_expiring_name;Pøímìøí brzy vyprší;Des trêves s'achèvent;Waffenstillstand läuft aus;;Finalizando treguas;;;;;;;;;x
+OPINION_OF_ME;Názor na mì;Son opinion sur moi;Meinung über mich;;Opinión sobre mi;;;;;;;;;x
+MY_OPINION_OF_CHAR;Mùj názor na $CHAR$;Mon opinion sur $CHAR$;Meine Meinung von $CHAR$;;Mi opinión sobre $CHAR$;;;;;;;;;x
+ALERT_DISABLED;Deaktivováno;Désactivé;Deaktiviert;;Desactivada;;;;;;;;;x
+ALERT_DISABLED_TOOLTIP;Deaktivováno\n§YKlikni pro aktivování§!;Désactivé\n§YCliquez pour réactiver§!;Deaktiviert\n§YWählen zum Reaktivieren§!;;Desactivada\n§YPincha para activar§!;;;;;;;;;x
+ALERT_DISMISSED;Skryto;Écarté;Abgelehnt;;Descartada;;;;;;;;;x
+ALERT_DISMISSED_TOOLTIP;Skryto\n§YKlikni pro aktivování§!;Écarté\n§YCliquez pour réactiver§!;Abgelehnt\n§YWählen zum Reaktivieren§!;;Descartada\n§YPincha para activar§!;;;;;;;;;x
+SAME_GUARDIAN_AS;Stejnı poruèník jako;Même tuteur que ;Hat denselben Vormund wie ;;Mismo tutor que ;;;;;;;;;x
+NOT_SAME_GUARDIAN_AS;JINİ poruèník ne;Pas le même tuteur que ;Hat nicht denselben Vormund wie ;;Distinto tutor que ;;;;;;;;;x
+GARRISON_REINFORCE_PROVINCEVIEW_TOOLTIP;Posily: §Y+$NUM$§!/mìsíènì;Renforts : §Y+$NUM$§!/mois;Verstärkung: §Y+$NUM$§!/Monat;;Refuerzos: §Y+$NUM$§!/mes;;;;;;;;;x
+NO_LEVY_REINF_GARRISON;§RHotovost nelze posílit, dokud je posádka v plném stavu§!;§RLes levées ne se renforceront pas tant que la garnison restera incomplète§!;§RAufgebot wird nicht verstärkt, solange die Garnison nicht vollzählig ist§!;;§RLa leva no se reforzará hasta que la guarnición esté completa§!;;;;;;;;;x
+d_ghilman;Ghilman;Bande de ghulams;Ghilman;;Ghilman;;;;;;;;;x
+d_ghilman_adj;Ghilman;ghulame;Ghilman;;Ghulam;;;;;;;;;x
+county_isolated;Izolovaná zemì;Comté isolé;Isolierte Grafschaft;;Condado Aislado;;;;;;;;;x
+TITLE_TIER_IS_LOWER;Hodnost §Y$NAME$§ je niší, ne §Y$RANK$§!\n;Le rang de §Y$NAME$§! est inférieur à §Y$RANK$§!\n;§Y$NAME$'s§! Rang ist niedriger als §Y$RANK$§!\n;;El rango de §Y$NAME$'s§! es inferior al de §Y$RANK$§!\n;;;;;;;;;x
+TITLE_TIER_IS_NOT_LOWER;Hodnost §Y$NAME$§! NENÍ niší, ne §Y$RANK$§!\n;Le rang de §Y$NAME$§! n'est pas inférieur à §Y$RANK$§!\n;§Y$NAME$'s§! Rang ist nicht niedriger als §Y$RANK$§!\n;;El rango de §Y$NAME$'s§! NO es inferior al de §Y$RANK$§!\n;;;;;;;;;x
+TITLE_TIER_IS_HIGHER;Hodnost §Y$NAME$§! je vyšší, ne §Y$RANK$§!\n;Le rang de §Y$NAME$§! est supérieur à §Y$RANK$§!\n;§Y$NAME$'s§! Rang ist höher als §Y$RANK$§!\n;;El rango de §Y$NAME$'s§! es superior al de §Y$RANK$§!\n;;;;;;;;;x
+TITLE_TIER_IS_NOT_HIGHER;Hodnost §Y$NAME$§! NENÍ vyšší, ne §Y$RANK$§!\n;Le rang de §Y$NAME$§! n'est pas supérieur à §Y$RANK$§!\n;§Y$NAME$'s§! Rang ist NICHT höher als §Y$RANK$§!\n;;El rango de §Y$NAME$'s§! NO es superior al de §Y$RANK$§!\n;;;;;;;;;x
+MSG_SETTING_PRIO6;Pozastaví hru;Mettre le jeu en pause;Pausiert das Spiel;;Pausará el juego;;;;;;;;;x
+MSG_SETTING_CLOSE_COL;Tento sloupec ovlivòuje reakci této zprávy, pokud se tıká tebe, nebo nejbliších èlenù rodiny a èlenù rodiny bez zemskıch titulù;Cette colonne contrôle le comportement de ce message vous concernant ou ceux d'un membre de la famille qui est sans terre;Diese Spalte beeinflusst das Verhalten dieser Nachricht in Hinsicht auf dich oder nahe und besitzlose Familienmitglieder;;Esta columna controla el comportamiento de los mensajes que te atañen a ti o a tus familiares cercanos en la Corte;;;;;;;;;x
+MSG_SETTING_OTHER_COL;Tento sloupec ovlivòuje reakci této zprávy, pokud se tıká jinıch zájmovıch postav;Cette colonne contrôle le comportement de ce message concernant d'autres personnages;Diese Spalte beeinflusst das Verhalten dieser Nachricht in Hinsicht auf das Interesse von Nachrichten anderer Charaktere;;Esta columna controla el comportamiento de los mensajes que atañen a otros personajes interesantes;;;;;;;;;x
+MSG_SETTING_INTEREST_COL;Tento sloupec ovlivòuje reakci této zprávy, pokud se tıká postav s nastavenım zvláštním zájmem;Cette colonne contrôle le comportement du message concernant des personnages importants;Diese Spalte beeinflusst das Verhalten dieser Nachricht bezüglich Charakteren von besonderem Interesse;;Esta columna controla el comportamiento de los mensajes que atañen a personajes marcados como especialmente interesantes;;;;;;;;;x
+MSG_SETTING_CLOSE_BUT;Toto tlaèítko zobrazuje nastavení pro zprávy tıkajících se tebe, nebo nejbliších èlenù rodiny a èlenù rodiny bez zemskıch titulù;Ce bouton affiche les options pour les messages vous concernant ou à propos des membres de votre famille sans terre;Dieser Schalter beeinflusst das Verhalten dieser Nachricht in Hinsicht auf dich oder nahe und besitzlose Familienmitglieder;;Este botón muestra las opciones para mensajes referentes a tí o a tu familia cercana o en la corte;;;;;;;;;x
+MSG_SETTING_INTEREST_BUT;Toto tlaèítko zobrazuje nastavení pro zprávy tıkajících se postav s nastavenım speciálním zájmem;Ce bouton affiche les options pour les messages concernant les personnages importants;Dieser Schalter beeinflusst das Verhalten dieser Nachricht bezüglich Charakteren von besonderem Interesse;;Este botón muestra las opciones para mensajes referentes a personajes especialmente interesantes;;;;;;;;;x
+MSG_SETTING_OTHER_BUT;Toto tlaèítko zobrazuje nastavení pro zprávy tıkajících se zájmovıch postav;Ce bouton affiche les options pour les messages concernant les personnages anodins;Dieser Schalter beeinflusst das Verhalten dieser Nachricht in Hinsicht auf das Interesse von Nachrichten anderer Charaktere;;Este botón muestra las opciones para mensajes referentes a otros personajes interesantes;;;;;;;;;x
+SPECIAL_INTEREST_CHARACTERS;Postavy zvláštního zájmu;Personnages importants;Wichtige Charaktere;;Personajes especialmente interesantes;;;;;;;;;x
+CIW_MESSAGES;§YPøepínaè speciálního zájmu§!;§YMarquer comme personnage soit important soit quelconque§!;§YAls Charakter von besonderem Interesse kennzeichnen§!;;Seleccionar/Deseleccionar como personaje especialmente interesante;;;;;;;;;x
+CIW_MESSAGES_DEL;Postavy zvláštního zájmu mají vlastní kategorii v Sumáøi a vlastní nastavení zpráv.;Les personnages qui sont marqués comme important sont plus faciles à suivre car ils sont dans l'index et ont leur propre configuration de messages;Charaktere von besonderem Interesse sind leichter zu verfolgen, da sie eine Outlinerkategorie und ihre eigene Nachrichteneinstellung haben.;;Los personajes especialmente interesantes son más fáciles de seguir pues tienen una categoría especial y su propia configuración de mensajes;;;;;;;;;x
+EVTDESC24503;Moji ostatní synové nesahají schopnostem [From.GetTitledFirstName] ani po kolena. Vìdìl, jak zacházet s meèem, a po mé smrti by dozajista vynikl jako [From.GetTitle].;Mes fils survivants, hélas, n'arrivent pas à la cheville [From.Get_du_TitledFirstName]. Lui, au moins, savait manier l'épée, et aurait été un grand [Root.GetTitle] après ma mort.;Meine verbleibenden Söhne haben bei weitem nicht die Fähigkeiten, die [From.GetTitledFirstName] hatte. Er wusste, wie man ein Schwert führte, und wäre ein großartiger [Root.GetTitle] nach meinem Tod gewesen.;;El resto de mis hijos ni se acercan a la capacidad de [From.GetTitledFirstName]. Sabía como blandir una espada, y hubiera sido un gran [Root.GetTitle] a mi muerte;;;;;;;;;x
+EVTOPTD50006;Ale... nepropustil jsem tì?;Mais... ne t'avais-je pas libéré ?;Aber ... habe ich dich nicht freigelassen?;;Pero... ¿No te había liberado? ;;;;;;;;;x
