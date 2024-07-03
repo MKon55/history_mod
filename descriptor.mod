@@ -1,5 +1,7 @@
 name="History Mod"
-archive="mod/history.zip"
+path = "mod/history"
+user_dir = "mod/history"
+
 tags={
     "Gameplay"
     "Historical"
