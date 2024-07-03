@@ -1,0 +1,206 @@
+720.1.1 = {
+	holder = 168345
+}
+745.1.1 = {
+	holder = 168346
+}
+783.1.1 = {
+	holder = 168347
+}
+804.1.1 = {
+	holder = 168348
+}
+820.1.1 = {
+	holder = 168349
+}
+833.1.1 = {
+	holder = 168350
+}
+851.1.1 = {
+	holder = 168351
+}
+866.1.1 = {
+	de_jure_liege = k_moravia
+}
+867.1.1 = {
+	law = succ_seniority
+	law = agnatic_succession
+}
+873.1.1 = {
+	holder = 500 #Bořivoj 
+}
+883.1.1 = {
+	liege = k_moravia #Součástí Velké Moravy 
+}
+894.1.1 = {
+	holder = 502 # Spytihněv 
+}
+907.7.4 = {
+	de_jure_liege = k_bohemia
+}
+915.1.1 = {
+	holder = 504 # Vratislav 
+}
+921.1.1 = {
+	holder = 506 # Sv. Václav 
+}
+929.1.1 = { #Bohemia became a tributary to Henry the Fowler
+	set_tribute_suzerain = {
+		who = k_germany
+		percentage = 0.4
+	}
+}
+935.1.1 = {
+	holder = 508 # Boleslav I. 
+}
+962.2.2 = { # Německo se stává HRE
+	clear_tribute_suzerain = k_germany
+}
+962.2.2 = { # Německo se stává HRE
+	set_tribute_suzerain = {
+		who = e_hre
+		percentage = 0.4
+	}
+}
+972.1.1 = {
+	holder = 510 # Boleslav II. Pobožný 
+}
+999.1.1 = {
+	holder = 512 # Boleslav III.
+}
+1002.1.1 = { # válka Přemyslovců 
+	clear_tribute_suzerain = e_hre
+}
+1002.1.1 = {
+	holder = 168536 # Vladivoj, dosazen Boleslav IV. 
+}
+1003.1.1 = { #Čechy dány v léno Vladivojovi 
+	set_tribute_suzerain = {
+		who = e_hre
+		percentage = 0.4
+	}
+}
+1003.2.1 = {
+	holder = 514  # Jaromír 
+}
+1003.2.1 = { # Čechy již jako součást HRE
+	clear_tribute_suzerain = e_hre
+}
+1003.2.1 = {
+	liege = e_hre # Čechy opět v léno, potvrzeno Jaromírovi, Čechy jako léno HRE
+}
+1003.4.1 = {
+	holder = 512 # Boleslav III.
+}
+1003.6.1 = {
+	holder = 756 # Vláda Boleslava IV. Chrabrého 
+}
+1004.6.1 = {
+	holder = 514  # Jaromír 
+}
+1012.1.1 = {
+	holder = 516 # Oldřich 
+}
+1033.1.1 = {
+	holder = 514 # Jaromír 
+}
+1034.1.1 = {
+	holder = 516 # Oldřich 
+}
+1034.6.1 = {
+	holder = 514  # Jaromír 
+}
+1035.1.1 = {
+	holder = 518 # Břetislav I. 
+}
+1045.1.1 = {
+	law = agnatic_succession
+	law = succ_seniority
+}
+1055.1.1 = {
+	holder = 520 # Spytihněv II. 
+}
+1061.1.1 = {
+	holder = 522 # Vratislav II. (I.) 
+}
+1092.1.14 = {
+	holder = 526 # Konrád I. 
+}
+1092.9.6 = {
+	holder = 530 # Břetislav II. 
+}
+1100.12.22 = {
+	holder = 8504 # Bořivoj II. 
+}
+1107.5.1 = {
+	holder = 96011 # Svatopluk II. 
+}
+1109.9.21 = {
+	holder = 212861 # Vladislav I. 
+}
+1117.12.1 = {
+	holder = 8504 # Bořivoj II. 
+}
+1120.8.16 = {
+	holder = 212861 # Vladislav II. 
+}
+1125.4.12 = {
+	holder = 212872 # Soběslav I. 
+}
+1140.2.14 = {
+	holder = 212851 # Vladislav II. 
+}
+1172.1.1 = {
+	holder = 212850 # Bedřich 
+}
+1173.1.1 = {
+	holder = 212560 # Soběslav II. 
+}
+1178.1.1 = {
+	holder = 212850 # Bedřich 
+}
+1189.3.25 = {
+	holder = 212057 # Konrád II. Ota 
+}
+1191.9.9 = {
+	holder = 212875 # Václav II. 
+}
+1192.1.9 = {
+	holder = 212855 # Přemysl I. Otakar
+}
+1193.1.1 = {
+	holder = 212869 # Břetislav III. Jindřich 
+}
+1197.1.1 = {
+	holder = 212856 # Vladislav III. Jindřich 
+}
+1197.6.1 = {
+	holder = 212855 # Přemysl I. Otakar
+}
+1198.9.15 = {
+	liege = k_bohemia
+}
+1230.12.15 = {
+	holder = 96000 # Václav I. 
+}
+1253.9.23 = {
+	holder = 96001 # Přemysl II. Otakar
+}
+1278.8.26 = {
+	holder = 96002 # Václav II. 
+}
+1305.6.21 = {
+	holder = 96003 # Václav III. 
+}
+1306.8.4 = {
+	holder = 462720 # Jindřich Korutanský 
+}
+1306.12.1 = {
+	holder = 462024 # Rudolf I. Habsburský 
+}
+1307.7.4 = {
+	holder = 462720 # Jindřich Korutanský 
+}
+1310.8.10 = {
+	holder = 462610 # Jan I. Lucemburský 
+}
