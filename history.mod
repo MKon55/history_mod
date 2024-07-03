@@ -1,3 +1,3 @@
 name="History Mod"
-archive="mod/history.zip"
+path = "mod/history"
 supported_version="3.3.5.1"  
