@@ -4781,12 +4781,8 @@ e_germany = {
 			c_luxembourg = {
 				color={ 113 113 158 }
 				color2={ 255 255 255 }
-
-				german = "Lucembursko"			
-
+			
 				b_luxembourg = {
-
-					german = "Lucembursko"	
 				}
 				b_bouillon = {
 				}
@@ -4831,7 +4827,6 @@ e_germany = {
 				b_julich = {
 				}
 				b_aachen = {
-					german = "Cáchy"	
 				}
 				b_prum = {
 				}
@@ -4874,20 +4869,15 @@ e_germany = {
 
 			capital = 118 # Trier
 
-			german = "Trevír"	
-
 			c_trier = {
 				color={ 144 144 177 }
 				color2={ 255 255 255 }
-
-				german = "Trevír"	
+				german = Trevír
+				bohemian = Trevír
 			
 				b_andernach = {
 				}
 				b_trier = {
-
-					german = "Trevír"
-
 				}
 				b_coblenz = {
 				}
@@ -4947,6 +4937,7 @@ e_germany = {
 			danish = Köln
 			norwegian = Köln
 			german = Kolín
+			bohemian = Kolín
 			lombard = Köln
 			old_frankish = Köln
 			suebi = Köln
@@ -4966,6 +4957,7 @@ e_germany = {
 				danish = Köln
 				norwegian = Köln
 				german = Kolín
+				bohemian = Kolín
 				lombard = Köln
 				old_frankish = Köln
 				suebi = Köln
@@ -4979,7 +4971,7 @@ e_germany = {
 					swedish = Köln
 					danish = Köln
 					norwegian = Köln
-					german = Kolín
+					german = Köln
 					lombard = Köln
 					old_frankish = Köln
 					suebi = Köln
@@ -5044,7 +5036,6 @@ e_germany = {
 		culture = german
 		
 		roman = "Raetia"
-		german = "Bavorsko"
 
 		capital = 1700 # Regensburg
 
@@ -5067,15 +5058,16 @@ e_germany = {
 			color2={ 255 255 255 }
 			
 			capital = 1700 # Regensburg
-			german = "Bavorsko"
 			
 			c_passau = {
 				color={ 54 54 54 }
 				color2={ 255 255 255 }
-					german = "Pasov"
+				german = "Pasov"
+				bohemian = "Pasov"
 		
 				b_passau = {
-					german = "Pasov"
+				german = "Pasov"
+				bohemian = "Pasov"
 				}
 				b_ortenburg = {
 				}
@@ -5095,7 +5087,6 @@ e_germany = {
 				color2={ 255 255 255 }
 			
 				b_munchen = {
-					german = "Mnichov"
 				}
 				b_dachau = {
 				}
@@ -5115,11 +5106,12 @@ e_germany = {
 			c_regensburg = {
 				color={ 70 50 70 }
 				color2={ 255 255 255 }
-
 				german = "Øezno"
+				bohemian = "Øezno"
 
 				b_regensburg = {
-					german = "Øezno"
+				german = "Øezno"
+				bohemian = "Øezno"
 				}
 				b_landshut = {
 				}
@@ -5157,6 +5149,8 @@ e_germany = {
 			c_nurnberg = {
 				color={ 57 57 57 }
 				color2={ 255 255 255 }
+ 				german = "Norimberk"
+				bohemian = "Norimberk"
 		
 				b_nurnberg = {
 				}
@@ -5197,9 +5191,14 @@ e_germany = {
 				color2={ 255 255 255 }
 
 				carantanian = "Solnograd"
+
+ 				german = "Salcburg"
+				bohemian = "Solnohrad"
 			
 				b_salzburg = {
 					carantanian = "Solnograd"
+ 					german = "Salcburg"
+					bohemian = "Solnohrad"
 				}
 				b_durmberg = {
 				}
@@ -5237,14 +5236,12 @@ e_germany = {
 			capital = 449 #Österreich
 
 			roman = "Noricum"
-			german = "Rakousko"
 		
 			c_steiermark = {
 				color={ 45 45 45 }
 				color2={ 255 255 255 }
 
 				carantanian = "Stajerska"
-				bohemian = "Štýrsko"
 				
 				b_steyr = {
 				}
@@ -5297,7 +5294,6 @@ e_germany = {
 				carantanian = "Vídeò"
 				bohemian = "Vídeò"
 				croatian = "Vídeò"
-				german = "Vídeò"
 			
 				b_wien = {
 					norse = Wien
@@ -5313,7 +5309,7 @@ e_germany = {
 					saxon = Wien
 					old_saxon = Wien
 					carantanian = "Dunaj"
-					bohemian = "Vídeò"
+					bohemian = "Víden"
 					croatian = "Bec"
 				}
 				b_wagram = {
@@ -5362,7 +5358,7 @@ e_germany = {
 
 			capital = 1693
 
-			german = "Štýrská marka"
+			german = "Steiermark"
 			carantanian = "Gradec"
 
 			c_leoben = {
@@ -5418,13 +5414,10 @@ e_germany = {
 			color2={ 255 255 255 }
 			
 			capital = 316 #Tirol
-			
-			german = "Tyrolsko"
 		
 			c_tirol = {
 				color={ 90 90 90 }
 				color2={ 255 255 255 }
-				german = "Tyrolsko"
 			
 				b_bregenz = {
 				}
@@ -5797,12 +5790,7 @@ e_germany = {
 				color={ 150 168 168 }
 				color2={ 255 255 255 }
 
-				german = "Frankfurt nad Mohanem"
-
-				b_frankfurt = {
-
-					german = "Frankfurt nad Mohanem"
-				}
+				b_frankfurt = {}
 				b_wiesbaden = {}
 				b_katzenelnbogen = {}
 				b_rheinfels = {}
@@ -5865,8 +5853,6 @@ e_germany = {
 			color2={ 255 255 255 }
 			
 			capital = 254 # Würzburg
-
-			german = "Franky"
 		
 			c_leiningen = {
 				color={ 126 126 126 }
@@ -5946,8 +5932,6 @@ e_germany = {
 
 			capital = 123 # Mainz
 
-			german = "Rýnská Falc"
-
 			c_pfalz = {
 				color={ 140 140 170 }
 				color2={ 255 255 255 }
@@ -5971,10 +5955,7 @@ e_germany = {
 				color={ 129 129 129 }
 				color2={ 255 255 255 }
 
-				german = "Mohuè"
-
 				b_mainz = {
-					german = "Mohuè"
 				}
 				b_eppstein = {
 				}
@@ -6203,14 +6184,10 @@ e_germany = {
 			color2={ 255 255 255 }
 			
 			capital = 249 #Schwaben
-
-			german = "Švábsko"
 			
 			c_schwaben = {
 				color={ 81 81 81 }
 				color2={ 255 255 255 }
-
-				german = "Švábsko"
 			
 				b_tubingen = {
 				}
@@ -6319,8 +6296,6 @@ e_germany = {
 			color2={ 255 255 255 }
 			
 			capital = 134 #Sundgau
-			
-			german = "Alsasko"
 		
 			c_nordgau = {
 				color={ 160 160 210 }
@@ -6368,8 +6343,6 @@ e_germany = {
 		d_mainz = {
 			color={ 129 129 129 }
 			color2={ 255 255 255 }
-
-			german = "Arcibiskupství Mohuèské"
 
 			capital = 123 # Mainz
 
@@ -15644,21 +15617,27 @@ e_wendish_empire = {
 				color={ 200 50 70 }
 				color2={ 255 255 255 }
 			
-				german = Breslau
+				german = Vratislav
+				bohemian = Vratislav
 				swedish = Breslau
 				norse = Breslau
 				norwegian = Breslau
 				danish = Breslau
 			
 				b_wroclaw = {
-					german = Breslau
+
 					swedish = Breslau
 					norse = Breslau
 					norwegian = Breslau
 					danish = Breslau
+					german = Vratislav
+					bohemian = Vratislav
+					polish = Vratislav 
 				}
 				b_legnica = {
-					german = Liegnitz
+					german = Lehnice
+					bohemian = Lehnice
+					polish = Lehnice
 					swedish = Liegnitz
 					norse = Liegnitz
 					norwegian = Liegnitz
@@ -15688,9 +15667,14 @@ e_wendish_empire = {
 			c_opole = {					#With HF, this is renamed to "Upper Silesia"
 				color={ 218 37 15 }
 				color2={ 255 255 255 }
+				german = Opolsko 
+				bohemia = Opolsko
+				polish = Opolsko 
 			
 				b_opole = {
-					german = Uppeln
+					german = Opolsko 
+					bohemian = Opolsko
+					polish = Opolsko 
 					swedish = Uppeln
 					norse = Uppeln
 					norwegian = Uppeln
@@ -15993,6 +15977,8 @@ e_wendish_empire = {
 				color2={ 255 255 255 }
 
 				pommeranian = Luzycka
+				bohemian = "Lužice"
+				german = "Lužice"
 				
 				b_lebusa = {
 				}
@@ -16010,6 +15996,8 @@ e_wendish_empire = {
 				}
 				b_zittau = {
 					pommeranian = Zitawa
+					bohemian = "Žitava"
+					german = "Žitava"
 				}
 				b_luckau = {
 					pommeranian = Luckawa
@@ -16275,8 +16263,6 @@ e_wendish_empire = {
 			color2={ 255 255 255 }
 			
 			capital = 366 # Stettin
-
-			german = "Pomoøansko"
 		
 			c_wolgast = {
 				color={ 121 163 58 }
@@ -16462,14 +16448,11 @@ e_wendish_empire = {
 
 			pommeranian = "Sorbia" # Brennaburg
 			
-			german = "Braniborsko"
-			
 			c_brandenburg = {
 				color={ 186 186 186 }
 				color2={ 255 255 255 }
 
 				pommeranian = Brennaburg
-				german = "Brandenburg"
 				
 				b_brandenburg = {
 					pommeranian = Brennaburg	
@@ -16517,7 +16500,6 @@ e_wendish_empire = {
 			capital = 312 #Meissen
 
 			pommeranian = Nisani
-			german = "Míšeòsko"
 		
 			c_meissen = {
 				color={ 177 177 177 }
@@ -16527,11 +16509,9 @@ e_wendish_empire = {
 				
 				b_dresden = {
 					pommeranian = Drezdany
-					german = "Drážïany"
 				}
 				b_meissen = {
 					pommeranian = Misni
-					german = "Drážïany"
 				}
 				b_dohna = {
 				}
@@ -16552,18 +16532,18 @@ e_wendish_empire = {
 				
 				polish = "Zgorzelice"
 				pommeranian = "Zgorzelice"
-				bohemian = "Zhoøelec"
-				german = "Zhoøelec"
+				bohemian = "Zhoøelecko"
+				german = "Zhoøelecko"
 				
-				b_gorlitz = {f
+				b_gorlitz = {
 					pommeranian = Zhorjelc
-					german = "Zhoøelec"
-					bohemian = "Zhoøelec"
+					bohemian = "Zhoøelecko"
+					german = "Zhoøelecko"
 				}
 				b_bautzen = {
 					pommeranian = Budysin
-					german = "Budyšín"
-					bohemian = "Zhoøelec"
+					bohemian = "Budyšínsko"
+					german = "Budyšínsko"
 				} 
 				b_herrhut = {
 				}
@@ -17298,54 +17278,40 @@ e_wendish_empire = {
            		c_domazlice = {
                		color={ 197 112 13 }
                		color2={ 255 255 255 }
+			bohemian = "Jižní Èechy"
+			german = "Jižní Èechy"
 					
-               			bohemian = "Jižní Cechy"
-               			pommeranian = "Jizni Cechy"
-               			polish = "Jizni Cechy"
-               			croatian = "Jizni Cechy"
-               			serbian =  "Jižní Cechy"
-               			bulgarian =  "Jižní Cechy"
-				bosnian = "Jizni Cechy"
-                		russian = "Jizni Cechy"
-                		ilmenian = "Jizni Cechy"
-                		severian = "Jizni Cechy"
-                		volhynian = "Jizni Cechy"
-                		german =  "Jižní Cechy"
-                		norse =  "Jižní Cechy"
-                		swedish =  "Jižní Cechy"
-                		danish =  "Jižní Cechy"
-                		norwegian =  "Jižní Cechy"
-                		old_frankish = "Jižní Cechy"
-                		old_saxon =  "Jižní Cechy"
-                		saxon =  "Jižní Cechy"
-                		suebi =  "Jižní Cechy"
-				slovieni = "Jižní Cechy"
                 
                 	b_prachen = {
+			bohemian = "Prácheò"
+			german = "Prácheò"
                 	}
                 	b_doudleby = {
                 	}
                 	b_chynov = {
                 	}
                 	b_hohenfurth = {
-						bohemian = "Vyšší Brod"
-						slovieni = "Vyšší Brod"
+						
                 	}
                 	b_rosenberg = {
-						bohemian = "Rožmberk"
-						slovieni = "Rožmberk"
+			bohemian = "Rožmberk"
+			german = "Rožmberk"
+						
                 	}
                 	b_budejovice = {
-						german = "Budweis"
+			bohemian = "Budìjovice"
+			german = "Budìjovice "
+						
                 	}
                 	b_pisek = {
+			bohemian = "Písek"
+			german = "Písek"
                 	}
                 	b_krumlov = {
-						german = "Krumau"
+						
                 	}
                 	b_goldenkron = {
-						bohemian = "Zlatá Koruna"
-						slovieni = "Zlatá Koruna"
+						
                 	}
                 	b_resenberg = {}
             		}
@@ -17353,64 +17319,15 @@ e_wendish_empire = {
                 color={ 199 114 15 }
                 color2={ 255 255 255 }
 				
-					norse = Praha
-					swedish = Praha
-					danish = Praha
-					norwegian = Praha
-					german = Praha
-					lombard = Praha
-					old_frankish = Praha
-					suebi = Praha
-					saxon = Praha
-					old_saxon = Praha
-					pommeranian = Praha
-					bohemian = Praha
-					slovieni = Praha
-					polish = Praha
-					croatian = Praha
-					serbian = Praha
-					bulgarian = Praha
-					bosnian = "Praha"
-					russian = Praga
-					ilmenian = Praha
-					severian = Praha
-					volhynian = Praha
+					
                 
 					b_praha = {
-						norse = Praha
-						swedish = Praha
-						danish = Praha
-						norwegian = Praha
-						german = Praha
-						lombard = Praha
-						old_frankish = Praha
-						suebi = Praha
-						saxon = Praha
-						old_saxon = Praha
-						pommeranian = Praha
-						bohemian = Praha
-						slovieni = Praha
-						polish = Praha
-						croatian = Praha
-						serbian = Praha
-						bulgarian = Praha
-						bosnian = "Praha"
-						russian = Praha
-						ilmenian = Praha
-						severian = Praha
-						volhynian = Praha
+						
 					}
                 	b_brevnov = {
                 	}
                 	b_kuttenberg = {
-						german = "Kutna Hora"
-						norse = Kuttenberg
-						swedish = Kuttenberg
-						danish = Kuttenberg
-						saxon = Kuttenberg
-						old_saxon = Kuttenberg
-						bohemian = "Kutna Hora"
-						slovieni = "Kutná Hora"
+						
                 	}
                 	b_vysehrad = {
                 	}
@@ -17423,25 +17340,18 @@ e_wendish_empire = {
                 	b_zbraslav = {
                 	}
                 	b_sazava = {
-						german = "Sázava"
+						
                 	}
 				}
             	c_litomerice = {
               		color={ 203 118 19 }
               		color2={ 255 255 255 }
 
-              		german = "Litomìøice"
-					swedish = "Leitmeritz"
-					norse = "Leitmeritz"
-					danish = "Leitmeritz"
-					norwegian = "Leitmeritz"
+              
+					
               
               		b_litomerice = {
-						german = "Litomìøice"
-						swedish = "Leitmeritz"
-						norse = "Leitmeritz"
-						danish = "Leitmeritz"
-						norwegian = "Leitmeritz"
+						
              		}
 					b_melnik_bohemia = {}
 					b_mnichovo_hradiste = {}
@@ -17455,15 +17365,15 @@ e_wendish_empire = {
 				c_hradec = {
                 	color={ 200 104 38 }
             		color2={ 255 255 255 }
-				
-					german = "Hradec Králové"
+			bohemian = "Hradec Králové"
+			german = "Hradec Králové"
+					
                 
                 	b_hradeckralove = {
-						german = "Hradec Králové"
+						
                 	}
 					b_kladsko = {
-						german = "Kladsko"
-						polish = "Kladsko"
+						
 					}
 					b_zleby = {
                		}
@@ -17479,19 +17389,14 @@ e_wendish_empire = {
 				c_plzen = {
                 	color={ 205 120 21 }
                 	color2={ 255 255 255 }
+			bohemian = "Plzeò"
+			german = "Plzeò"
                 
-                	german = Plzeò
-					swedish = Pilsen
-					norse = Pilsen
-					danish = Pilsen
-					norwegian = Pilsen
-                
+                	german = Pilsen
+					
                 	b_plzen = {
-                		german = Plzeò
-						swedish = Pilsen
-						norse = Pilsen
-						danish = Pilsen
-						norwegian = Pilsen
+           
+						
                 	}
                 	b_plasy = {
                 	}
@@ -17509,11 +17414,13 @@ e_wendish_empire = {
 				c_zatec = {
                 	color={ 155 105 30 }
                 	color2={ 255 255 255 }
+			bohemian = "Žatec"
+			german = "Žatec"
 				
-					german = "Žatec"
+					
                 
                 	b_zatec = {
-						german = "Žatec"
+						
                 	}
 					b_osek = {
 					}
@@ -17539,10 +17446,10 @@ e_wendish_empire = {
 				color={ 51 51 51 }
 				color2={ 255 255 255 }
 			
-				german = "Znojmo"
+			
 		
 				b_znojmo = {
-					german = "Znojmo"
+					
 				}
 				b_mikulov = {
 				}
@@ -17551,7 +17458,7 @@ e_wendish_empire = {
 				b_pohansko = {
 				}
 				b_jihlava = {
-					german = "Jihlava"
+					
 				}
 				b_bitov = {
 				}
@@ -17562,21 +17469,17 @@ e_wendish_empire = {
 				b_louka = {
 				}
 				b_eibenshitz = {
-					bohemian = "Ivancice"
-					slovieni = "Ivancice"
-					german = "Ivancice"
+					
 				}
 			}
             c_olomouc = {
                 color={ 163 107 41 }
                	color2={ 255 255 255 }
                 
-				german = "Olomouc"
-				polish = Olomouc
+				
 				
                 b_olomouc = {
-					german = "Olomouc"
-					polish = "Olomouc"
+					
                 }
                 b_velehrad = {
                 }
@@ -17597,13 +17500,13 @@ e_wendish_empire = {
                	color={ 166 110 44 }
             	color2={ 255 255 255 }
                	
-				german = "Brno"
+				
 				
                 b_veligrad = {
-					slovieni = Velehrad
+					
                 }
                 b_brno = {
-					german = "Brno"
+					
 				}
                 b_mikulcice = {
                 }
@@ -17624,12 +17527,10 @@ e_wendish_empire = {
                 color={ 163 110 44 }
                 color2={ 255 255 255 }
 				
-				german = "Opava"
-				polish = "Opava"
+				
                 
                 b_opava = {
-					german = "Opava"
-					polish = "Opava"
+					
                 }
                 b_krnov = {
                 }
